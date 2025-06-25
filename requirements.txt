@@ -1,0 +1,137 @@
+# Core networking and IP management
+ipaddress==1.0.23
+netaddr==1.3.0
+python-ipaddress==1.0.23
+
+# Database and ORM
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9
+alembic==1.13.3
+
+# Web framework and API
+flask==3.0.3
+flask-restful==0.3.10
+flask-sqlalchemy==3.1.1
+flask-migrate==4.0.7
+flask-jwt-extended==4.6.0
+flask-cors==5.0.0
+
+# Network discovery and scanning
+python-nmap==0.7.1
+scapy==2.6.1
+netmiko==4.4.0
+paramiko==3.4.1
+
+# SNMP support
+pysnmp==6.2.6
+pysnmp-mibs==0.1.6
+
+# DNS and DHCP integration
+dnspython==2.7.0
+python-dhcp==0.1.0
+
+# Configuration management
+pyyaml==6.0.2
+configparser==7.1.0
+python-dotenv==1.0.1
+
+# CLI and utilities
+click==8.1.7
+rich==13.9.4
+tabulate==0.9.0
+
+# Async support
+asyncio==3.4.3
+aiofiles==24.1.0
+asyncpg==0.29.0
+
+# Security and authentication
+cryptography==43.0.3
+bcrypt==4.2.1
+jwt==1.3.1
+
+# Logging and monitoring
+loguru==0.7.2
+prometheus-client==0.21.0
+
+# Data validation and serialization
+marshmallow==3.23.1
+cerberus==1.3.5
+jsonschema==4.23.0
+
+# HTTP requests and webhooks
+requests==2.32.3
+httpx==0.27.2
+
+# Task scheduling and background jobs
+celery==5.4.0
+redis==5.2.0
+
+# Email notifications
+flask-mail==0.10.0
+
+# Date and time handling
+python-dateutil==2.9.0
+pytz==2024.2
+
+# Mathematical and statistical operations
+numpy==2.1.3
+pandas==2.2.3
+
+# Machine learning for usage prediction
+scikit-learn==1.5.2
+
+# Geographic and location support
+geoip2==4.8.0
+maxminddb==2.6.2
+
+# Testing framework
+pytest==8.3.4
+pytest-asyncio==0.24.0
+pytest-mock==3.14.0
+pytest-cov==6.0.0
+
+# Development tools
+black==24.10.0
+flake8==7.1.1
+mypy==1.13.0
+
+# Documentation
+sphinx==8.1.3
+sphinx-rtd-theme==3.0.2
+
+# Progress bars and UI
+tqdm==4.67.1
+
+# XML parsing for network device integration
+lxml==5.3.0
+
+# Cache support
+flask-caching==2.3.0
+
+# Rate limiting
+flask-limiter==3.8.0
+
+# Concurrent processing
+concurrent-futures==3.1.1
+
+# Network protocol utilities
+struct==0.7.2
+
+# Subnet calculation utilities
+ipcalc==1.99.0
+
+# MAC address utilities
+netaddr==1.3.0
+
+# Database connection pooling
+SQLAlchemy-Utils==0.41.2
+
+# Environment detection
+python-decouple==3.8
+
+# UUID generation
+uuid==1.30
+
+# JSON Web Token support
+PyJWT==2.9.0
